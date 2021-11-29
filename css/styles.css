@@ -1,0 +1,42 @@
+body {
+  padding: 10vh;
+  font-family: sans-serif;
+	border: 7px solid black;
+	color: #555;
+}
+
+header {
+	text-align: center;
+}
+
+header>p {
+	color: #5ea6f1;
+	font-size: 1.2em;
+}
+
+#slogan {
+	font-size: 3em;
+	font-style: italic;
+}
+
+main>div {
+	text-align: center;
+	margin: 30px 10px;
+}
+
+img {
+	width: 350px;
+}
+
+main p {
+	font-size: 1.2em;
+}
+
+#goal {
+	font-size: 1.6em;
+}
+
+li {
+	list-style-type: none;
+	font-size: 1.3em;
+}
