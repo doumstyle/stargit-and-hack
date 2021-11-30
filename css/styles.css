@@ -9,6 +9,11 @@ header {
 	text-align: center;
 }
 
+header a {
+	text-decoration: none;
+	color: #5ea6f1;
+}
+
 header>p {
 	color: #5ea6f1;
 	font-size: 1.2em;
